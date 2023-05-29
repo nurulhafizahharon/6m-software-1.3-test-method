@@ -32,7 +32,7 @@ Source: https://www.javatpoint.com/software-engineering-software-development-lif
 1. *Testing* - Ensuring the outcome of development aligns with the defined requirements.
 1. *Deployment* - Going live into production.
 1. *Maintenance* - Monitoring systems health and fix errors when arises.
-
+-> **Documentations is in every steps
 ---
 
 ## Part 2 - Software Testing Methods
